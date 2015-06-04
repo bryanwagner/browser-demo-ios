@@ -76,6 +76,7 @@ NSString *const BROWSER_STOP_TEXT    = @"X";
 
 - (void)navigateStop {
     [self.webView stopLoading];
+    self.loading = NO;
     [self updateUI];
 }
 
