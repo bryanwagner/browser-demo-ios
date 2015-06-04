@@ -1,5 +1,5 @@
 # browser-demo-ios
-Demo of a simple web browser based on UIWebView.
+Demo of a simple web browser based on UIWebView.  This is the Objective-C version.
 
 Screen Shot 1                 | Screen Shot 2
 :----------------------------:|:-------------------------------:
